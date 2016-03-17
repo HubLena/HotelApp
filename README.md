@@ -1,6 +1,6 @@
-# Basic Automation Project
+# Hotel Application Automation Project
 
- Basic Java Selenium Automation Project
+ Java Selenium Automation Project
  * QA
  * Java
  * Maven
